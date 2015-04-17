@@ -1,2 +1,3 @@
-# deep_tutorial
-Tutorial for deep learning
+# Tutorials for deep learning.
+
+In this place I like to collect tutorials for deep learning. Currently I have done a tutorial for the great lasagne Framework. See [lasagne](lasagne)
