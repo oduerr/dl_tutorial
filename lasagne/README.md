@@ -1,6 +1,4 @@
 ## Tutorial for lasagne
-
-Tutorial for Lasagne
 The following notebooks are tutorials, demonstrating how easy it is to do deep learning with nolearn/lasagne library. Some basic knowledge of deep learning is assumed. You should know multilayer perceptions and convolutional neural networks. See [http://deeplearning.net/tutorial/](http://deeplearning.net/tutorial/) for an introduction. To install Lasagne see the great [tutorial]( http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/) by Daniel Nouri.
 
 
