@@ -6,7 +6,7 @@ The following notebooks are tutorials, demonstrating how easy it is to do deep l
 * [MinimalLasagneMLP.ipynb](MinimalLasagneMLP.ipynb) [nbviewer](http://nbviewer.ipython.org/github/oduerr/dl_tutorial/blob/master/lasagne/MinimalLasagneMLP.ipynb) shows how to create a multilayer perceptron.
 * [MinimalLasagneCNN.ipynb](MinimalLasagneCNN.ipynb) [nbviewer](http://nbviewer.ipython.org/github/oduerr/dl_tutorial/blob/master/lasagne/MinimalLasagneCNN.ipynb) shows how to create a (simple) convolution neural network
 * [DataAugmentation.ipynb](DataAugmentation.ipynb) [nbviewer](http://nbviewer.ipython.org/github/oduerr/dl_tutorial/blob/master/lasagne/DataAugmentation.ipynb) shows how to do training data augmentation (in principle)
-* [DataAugmentationII.ipynb](DataAugmentationII.ipynb) [nbviewer](http://nbviewer.ipython.org/github/oduerr/dl_tutorial/blob/master/lasagne/DataAugmentation.ipynb) shows how to use training data augmentation to ease overfitting and do a better prediction.
+* [DataAugmentationII.ipynb](DataAugmentationII.ipynb) [nbviewer](http://nbviewer.ipython.org/github/oduerr/dl_tutorial/blob/master/lasagne/DataAugmentationII.ipynb) shows how to use training data augmentation to ease overfitting and do a better prediction.
 
 
 #### Other tutorials. 
