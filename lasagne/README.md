@@ -7,12 +7,12 @@ The following notebooks are tutorials, demonstrating how easy it is to do deep l
 * [DataAugmentationII.ipynb](DataAugmentationII.ipynb) [nbviewer](http://nbviewer.ipython.org/github/oduerr/dl_tutorial/blob/master/lasagne/DataAugmentationII.ipynb) shows how to use training data augmentation to ease overfitting and do a better prediction.
 
 ## Installation
-To install nolearn,lasagne and theano do
+To install the required python packages such as nolearn,lasagne and theano do
 ```
 pip install -r https://raw.githubusercontent.com/oduerr/dl_tutorial/master/lasagne/requirements.txt
 ```
 ### Installation on VM or Amazon
-[http://datasciencetoolbox.org/](http://datasciencetoolbox.org/) provides a VM and Amazon AMIs to on top of the data science toolbox see [README_DataScience_ToolBox.md](README_DataScience_ToolBox.md) for a step-by-step introduction.
+Alternatively you can use a VPN. For example [http://datasciencetoolbox.org/](http://datasciencetoolbox.org/) provides a VM and Amazon AMIs to on top of the data science toolbox see [README_DataScience_ToolBox.md](README_DataScience_ToolBox.md) for a step-by-step introduction.
 
 
 #### Other tutorials. 
