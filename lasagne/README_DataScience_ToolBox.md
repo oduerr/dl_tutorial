@@ -9,6 +9,11 @@ After you installed the data-science toolbox as described above. Log on the box 
 vagrant@data-science-toolbox:~$ sudo pip install --upgrade ipython 
 vagrant@data-science-toolbox:~$ sudo pip install jsonschema
 ```
+If you use the Amazon AMI you also need to update tornado
+```
+ubuntu@ip-10-97-131-151:~/notebooks$ sudo pip install --upgrade tornado
+```
+
 
 * Install nolearn, lasagne and theano via:
 ```
