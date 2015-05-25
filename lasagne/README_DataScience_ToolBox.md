@@ -6,7 +6,7 @@ After you installed the data-science toolbox as described above. Log on the box 
 
 * Update ipython to version 3.0 and the missing jsonschema library via
 ```
-vagrant@data-science-toolbox:~$ sudo pip install ipython –upgrade
+vagrant@data-science-toolbox:~$ sudo pip install --upgrade ipython 
 vagrant@data-science-toolbox:~$ sudo pip install jsonschema
 ```
 
