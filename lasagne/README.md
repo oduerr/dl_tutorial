@@ -1,7 +1,9 @@
 ## Tutorial for lasagne
-The following notebooks are tutorials, demonstrating how easy it is to do deep learning with nolearn/lasagne library. Some basic knowledge of deep learning is assumed. You should know multilayer perceptions and convolutional neural networks. See [http://deeplearning.net/tutorial/](http://deeplearning.net/tutorial/) for an introduction. To install Lasagne see the great [tutorial]( http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/) by Daniel Nouri.
-
-
+The following notebooks are tutorials, demonstrating how easy it is to do deep learning with nolearn/lasagne library. Some basic knowledge of deep learning is assumed. You should know multilayer perceptions and convolutional neural networks. See [http://deeplearning.net/tutorial/](http://deeplearning.net/tutorial/) for an introduction. To install nolearn,lasagne and theano do
+```
+pip install -r https://raw.githubusercontent.com/oduerr/dl_tutorial/master/lasagne/requirements.txt
+```
+for an installation on top of the data science toolbox see [README_DataScience_ToolBox.md](README_DataScience_ToolBox.md)
 
 * [MinimalLasagneMLP.ipynb](MinimalLasagneMLP.ipynb) [nbviewer](http://nbviewer.ipython.org/github/oduerr/dl_tutorial/blob/master/lasagne/MinimalLasagneMLP.ipynb) shows how to create a multilayer perceptron.
 * [MinimalLasagneCNN.ipynb](MinimalLasagneCNN.ipynb) [nbviewer](http://nbviewer.ipython.org/github/oduerr/dl_tutorial/blob/master/lasagne/MinimalLasagneCNN.ipynb) shows how to create a (simple) convolution neural network
