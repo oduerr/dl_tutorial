@@ -2,7 +2,7 @@
 The probably easiest way to install a working copy of nolearn lasagne is to use the data science toolbox from [http://datasciencetoolbox.org/](http://datasciencetoolbox.org/) which can be installed as a virtual machine or on Amazon. Please make sure that you also set up ipython notebook support (step 5) in the tutorial.
 
 ## Install python dependencies
-After you installed the data-science toolbox as described above. Log on the box (`vagrant ssh`) or ssh to our EC2 instance and install the following additional packages using
+After you installed the data-science toolbox as described above. Log on the box (`vagrant ssh`) or ssh to your EC2 instance and install the following additional packages using
 ```
 sudo pip install -r https://raw.githubusercontent.com/oduerr/dl_tutorial/master/lasagne/requirements.txt
 ```
