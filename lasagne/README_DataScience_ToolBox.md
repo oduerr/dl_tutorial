@@ -18,6 +18,7 @@ ubuntu@ip-10-97-131-151:~/notebooks$ sudo pip install --upgrade tornado
 * Install nolearn, lasagne and theano via:
 ```
 vagrant@data-science-toolbox:~$ sudo pip install  -r https://raw.githubusercontent.com/dnouri/nolearn/master/requirements.txt
+vagrant@data-science-toolbox:~$ sudo pip install git+https://github.com/dnouri/nolearn.git@3fdd21d819#egg=nolearn
 ```
 
 ## Clone the repository
