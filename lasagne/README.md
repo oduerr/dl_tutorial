@@ -12,7 +12,7 @@ To install the required python packages such as nolearn,lasagne and theano do
 pip install -r https://raw.githubusercontent.com/oduerr/dl_tutorial/master/lasagne/requirements.txt
 ```
 ### Installation on VM or Amazon
-Alternatively you can use a VPN. For example [http://datasciencetoolbox.org/](http://datasciencetoolbox.org/) provides a VM and Amazon AMIs to on top of the data science toolbox see [README_DataScience_ToolBox.md](README_DataScience_ToolBox.md) for a step-by-step introduction.
+Alternatively you can use a VPN. For example [http://datasciencetoolbox.org/](http://datasciencetoolbox.org/) provides a VM and Amazon AMIs to on top of the data science toolbox see [README_DataScience_ToolBox.md](README_DataScience_ToolBox.md) for a step-by-step instruction.
 
 
 #### Other tutorials. 
