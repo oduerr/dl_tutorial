@@ -6,6 +6,9 @@ The following notebooks are tutorials, demonstrating how easy it is to do deep l
 * [DataAugmentation.ipynb](DataAugmentation.ipynb) [nbviewer](http://nbviewer.ipython.org/github/oduerr/dl_tutorial/blob/master/lasagne/DataAugmentation.ipynb) shows how to do training data augmentation (in principle)
 * [DataAugmentationII.ipynb](DataAugmentationII.ipynb) [nbviewer](http://nbviewer.ipython.org/github/oduerr/dl_tutorial/blob/master/lasagne/DataAugmentationII.ipynb) shows how to use training data augmentation to ease overfitting and do a better prediction.
 
+Slides of a tutorial on these notebooks given at the Zurich Machine Learning Meetup can be found 
+[here](https://dl.dropboxusercontent.com/u/9154523/talks/ConvNets_ZH_ML.pptx.pdf)
+
 ## Installation
 To install the required python packages such as nolearn,lasagne and theano do
 ```
