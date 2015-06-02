@@ -1,5 +1,5 @@
 ## Tutorial for lasagne
-The following notebooks are tutorials, demonstrating how easy it is to do deep learning with nolearn/lasagne library. Some basic knowledge of deep learning is assumed. You should know multilayer perceptions and convolutional neural networks. See [http://deeplearning.net/tutorial/](http://deeplearning.net/tutorial/) or [http://cs231n.github.io/convolutional-networks/](cs231n) for an introduction. 
+The following notebooks are tutorials, demonstrating how easy it is to do deep learning with nolearn/lasagne library. Some basic knowledge of deep learning is assumed. You should know multilayer perceptions and convolutional neural networks. See [http://deeplearning.net/tutorial/](http://deeplearning.net/tutorial/) or [cs231n](http://cs231n.github.io/convolutional-networks/) for an introduction. 
 
 * [MinimalLasagneMLP.ipynb](MinimalLasagneMLP.ipynb) [nbviewer](http://nbviewer.ipython.org/github/oduerr/dl_tutorial/blob/master/lasagne/MinimalLasagneMLP.ipynb) shows how to create a multilayer perceptron.
 * [MinimalLasagneCNN.ipynb](MinimalLasagneCNN.ipynb) [nbviewer](http://nbviewer.ipython.org/github/oduerr/dl_tutorial/blob/master/lasagne/MinimalLasagneCNN.ipynb) shows how to create a (simple) convolution neural network
