@@ -1,4 +1,4 @@
-## Tutorial for lasagne
+## Tutorial for nolearn.lasagne
 The following notebooks are tutorials, demonstrating how easy it is to do deep learning with nolearn/lasagne library. Some basic knowledge of deep learning is assumed. You should know multilayer perceptions and convolutional neural networks. See [http://deeplearning.net/tutorial/](http://deeplearning.net/tutorial/) or [cs231n](http://cs231n.github.io/convolutional-networks/) for an introduction. 
 
 * [MinimalLasagneMLP.ipynb](MinimalLasagneMLP.ipynb) [nbviewer](http://nbviewer.ipython.org/github/oduerr/dl_tutorial/blob/master/lasagne/MinimalLasagneMLP.ipynb) shows how to create a multilayer perceptron.
@@ -10,11 +10,9 @@ Slides of a tutorial on these notebooks given at the Zurich Machine Learning Mee
 [here](https://dl.dropboxusercontent.com/u/9154523/talks/ConvNets_ZH_ML.pptx.pdf)
 
 ## Installation
-To install the required python packages such as nolearn,lasagne and theano do
-```
-pip install -r https://raw.githubusercontent.com/oduerr/dl_tutorial/master/lasagne/requirements.txt
-```
-To clone the library itself
+To install the required python packages follow the installation procedure descriped in https://github.com/dnouri/nolearn
+
+To clone the demo itself
 ```
 git clone https://github.com/oduerr/dl_tutorial.git
 ```
