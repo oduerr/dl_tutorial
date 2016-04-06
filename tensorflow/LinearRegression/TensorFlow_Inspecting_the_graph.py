@@ -1,7 +1,7 @@
 import tensorflow as tf
 import numpy as np
 
-
+# 
 if __name__ == '__main__':
     N = 30
     x_data = (np.linspace(0,10,N)).astype('float32')
