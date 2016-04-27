@@ -1,5 +1,4 @@
 .idea
-.ipynb*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -60,4 +59,8 @@ docs/_build/
 target/
 .Rproj.user
 
-lasagne/.ipynb_checkpoints/MinimalLasagneMLP-checkpoint.ipynb
+.ipynb_checkpoints
+
+
+tensorflow/vae/MNIST_data
+tensorflow/vae/model
