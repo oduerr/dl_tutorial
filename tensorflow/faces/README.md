@@ -1,4 +1,4 @@
-The notebook (vgg_faces.ipynb)[vgg_faces.ipynb] shows how to load the vgg_faces network (http://www.robots.ox.ac.uk/~vgg/software/vgg_face/) into tensorflow and predicing the identity of a given celibrity.
+The notebook [vgg_faces.ipynb](vgg_faces.ipynb) shows how to load the vgg_faces network (http://www.robots.ox.ac.uk/~vgg/software/vgg_face/) into tensorflow and predicing the identity of a given celibrity.
 
 ### Creating the TensorFlow network
 The VGG Face network from the website is not availible in TensorFlow. It has therefore been tranfered from caffe to Tensorflow using the following steps:
