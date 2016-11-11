@@ -66,3 +66,5 @@ tensorflow/vae/MNIST_data
 tensorflow/vae/model
 
 tensorflow/vae/model_2d
+
+tensorflow/LinearRegression/checkpoints/*
