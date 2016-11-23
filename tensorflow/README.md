@@ -13,6 +13,8 @@ The following notebooks deal with more deep learning relate aspects of TF and ar
 * [Building_Nice_Networks/Scoping.ipynb](Building_Nice_Networks/Scoping.ipynb) 
 Use variable scopes to build networks from building blocks.
 
+* [linear_regression/03_checkpointing.ipynb](linear_regression/03_checkpointing.ipynb) demonstrates who to checkpoint and reload a model
+
 * [stored_models/Using_Trained_Nets.ipynb](stored_models/Using_Trained_Nets.ipynb) Load a trained network, invastigate the network to find relevant entry / exit points. Use these to feed data through the network (for classification of novel images). The notebook further shows how to get variables from the network.
 
 * [stored_models/Finetuning.ipynb](stored_models/Finetuning.ipynb) Setting up a network with TF-Slim and do transfer learning 
