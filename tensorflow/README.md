@@ -7,7 +7,7 @@ The following notebooks are also convered in the [introductory presentation](htt
 * [Control_Flow/Mandelbrot.ipynb](Control_Flow/Mandelbrot.ipynb) Explains tensorflow loops and applies them to draw the Madelbrot set
 
 ## Advances Topics
-The following notebooks deal with more deep learning relate aspects of TF and are partly convered in the [presentation TODO](https://home.zhaw.ch/~dueo/bbs/files/TF_Introduction.pdf)
+The following notebooks deal with more deep learning relate aspects of TF and are partly convered in this [presentation](https://home.zhaw.ch/~dueo/bbs/files/TF_DeepLearning.pptx.pdf)
 
 ### Building networks, accessing them
 * [Building_Nice_Networks/Scoping.ipynb](Building_Nice_Networks/Scoping.ipynb) 
