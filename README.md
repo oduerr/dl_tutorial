@@ -1,6 +1,8 @@
-# Tutorials for deep learning.
+# Tutorials for deep learning
 
-In this place I like to collect tutorials for deep learning. Currently I have done a tutorial for the great [lasagne](lasagne) framework, a tutorial on [TensorFlow](tensorflow) is in preparation.
+In this place I like to collect tutorials for deep learning. Currently I have tutorial / examples for the great [lasagne](lasagne) framework and [TensorFlow](tensorflow)
+
+* Two presentations on TensorFlow have been done in the DataLab Lunch Seminar, see  [TensorFlow](tensorflow).
 
 * A tutorial on variational autoencoder was given at the [DataLab Lunch Seminar](https://home.zhaw.ch/~dueo/bbs/files/vae.pdf) the TensorFlow [notebooks](tensorflow/vae/)
 
