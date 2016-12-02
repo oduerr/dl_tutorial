@@ -17,6 +17,8 @@ Use variable scopes to build networks from building blocks.
 
 * [stored_models/Using_Trained_Nets.ipynb](stored_models/Using_Trained_Nets.ipynb) Load a trained network, invastigate the network to find relevant entry / exit points. Use these to feed data through the network (for classification of novel images). The notebook further shows how to get variables like the kernels from a CNN from the network.
 
+* [stored_models/Loading_Frozen_Graph.ipynb](stored_models/Loading_Frozen_Graph.ipynb) Artstyle transfer: loading a frozen model, which does art style transfer
+
 * [stored_models/Finetuning.ipynb](stored_models/Finetuning.ipynb) Setting up a network with TF-Slim and do transfer learning 
 
 ### Debugging networks
