@@ -1,12 +1,12 @@
 # Collection of examples for learning TensorFlow
 
 ## Introduction to TensorFlow 
-The following notebooks are also covered in the [introductory presentation](https://home.zhaw.ch/~dueo/bbs/files/TF_Introduction.pdf)
+The following notebooks give an introduction to TensorFlow and are partly covered in the [introductory presentation](https://home.zhaw.ch/~dueo/bbs/files/TF_Introduction.pdf)
 * [linear_regression/01_LineFit.ipynb](linear_regression/01_LineFit.ipynb) A simple line fit 
 * [simple_ops/Mandelbrot.ipynb](simple_ops/Mandelbrot.ipynb) Drawing the Madelbrot set using TensorFlow
 * [Control_Flow/Mandelbrot.ipynb](Control_Flow/Mandelbrot.ipynb) Explains tensorflow loops and applies them to draw the Madelbrot set
 
-## Advanced Topics
+## Advanced TensorFlow
 The following notebooks deal with more deep learning relate aspects of TF and are partly convered in this [presentation](https://home.zhaw.ch/~dueo/bbs/files/TF_DeepLearning.pptx.pdf)
 
 ### Building networks, accessing them
@@ -28,8 +28,13 @@ Use variable scopes to build networks from building blocks.
 
 * [debugging/debug_with_python.ipynb](debugging/debug_with_python.ipynb) Debugging by embedding python code
 
+## Recurent Neural Networks
+* [RNN](RNN/) Some scripts on recurrent neural networks covered in the [talk](https://home.zhaw.ch/~dueo/bbs/files/BBS_RNN.pdf) 
 
-# Miscelaneous things with TensorFlow
+## Convolutional Neural Networks
+* [CAS Course](https://github.com/oduerr/dl_cas/tree/master/day5/tensorflow) Will be ported in this directory soon
+
+## Miscelaneous things with TensorFlow
 * [vae](vae/) contains examples of Variational Autoencoder VAE
 
 * [faces](faces/) shows how to transfer a network for face recognition from caffee to tensorflow
