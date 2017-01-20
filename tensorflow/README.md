@@ -28,13 +28,13 @@ Use variable scopes to build networks from building blocks.
 
 * [debugging/debug_with_python.ipynb](debugging/debug_with_python.ipynb) Debugging by embedding python code
 
-## Recurent Neural Networks
+## Deep Learning: Recurent Neural Networks
 * [RNN](RNN/) Some scripts on recurrent neural networks covered in the [talk](https://home.zhaw.ch/~dueo/bbs/files/BBS_RNN.pdf) 
 
-## Convolutional Neural Networks
+## Deep Learning: Convolutional Neural Networks
 * [CAS Course](https://github.com/oduerr/dl_cas/tree/master/day5/tensorflow) Will be ported in this directory soon
 
-## Miscelaneous things with TensorFlow
+## Miscelaneous 
 * [vae](vae/) contains examples of Variational Autoencoder VAE
 
 * [faces](faces/) shows how to transfer a network for face recognition from caffee to tensorflow
