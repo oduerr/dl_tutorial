@@ -28,6 +28,9 @@ Use variable scopes to build networks from building blocks.
 
 * [debugging/debug_with_python.ipynb](debugging/debug_with_python.ipynb) Debugging by embedding python code
 
+## Deep Learning: The path to fully connected networks
+* [path_to_fc_nets](path_to_fc_nets/) These notebooks cover the path to fully connected neural networks starting from logistic regression
+
 ## Deep Learning: Recurent Neural Networks
 * [RNN](RNN/) Some scripts on recurrent neural networks covered in the [talk](https://home.zhaw.ch/~dueo/bbs/files/BBS_RNN.pdf) 
 
