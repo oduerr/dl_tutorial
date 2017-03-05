@@ -69,3 +69,7 @@ tensorflow/vae/model_2d
 
 tensorflow/LinearRegression/checkpoints/*
 *.pb
+
+tensorflow/data/*
+
+tensorflow/path_to_fc_nets/tb/*
