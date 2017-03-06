@@ -73,3 +73,9 @@ tensorflow/LinearRegression/checkpoints/*
 tensorflow/data/*
 
 tensorflow/path_to_fc_nets/tb/*
+
+*.gz
+
+*.zip
+
+tensorflow/path_to_fc_nets/tb_full_mnist/*
